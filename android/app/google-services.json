@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910265701744",
+    "project_id": "vault-62407",
+    "storage_bucket": "vault-62407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910265701744:android:416f0c9d0c31af6b586bb5",
+        "android_client_info": {
+          "package_name": "com.abdullah.vault_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfD5GOO8aCHEI6MrCL6ijtdaY43FBwQBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
